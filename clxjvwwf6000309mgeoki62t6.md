@@ -120,13 +120,13 @@ Whether you're working on a solo project or as part of a large team, embracing G
 
 In the upcoming blogs,
 
-* We will disscuss more on impact of Git on an Open source projects.
+* We will disscuss more on "impact of Git on an Open source projects".
     
-* Why students should adobt this tool early from college days.
+* Why students should adopt this tool early from college days?
     
-* How a Git can be useful in crowd sourcing.
+* How a Git can be useful in crowd sourcing?
     
-* We will start an opensource mini project for all students to contribute.
+* We will start an open-source mini project for all students to contribute.
     
 * and much more to explore...
     
